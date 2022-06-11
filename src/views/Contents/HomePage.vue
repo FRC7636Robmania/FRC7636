@@ -180,7 +180,7 @@ export default {
         ],
         bottomItems: [
             {
-                photo: require("@/assets/Elements/Everywhere-2020 Infinite Recharge.png"),
+                photo: require("@/assets/Elements/Everywhere-2020InfiniteRecharge.png"),
                 text: "FRC2021:Infinite Recharge",
                 path: "/2021InfiniteRecharge",
             },

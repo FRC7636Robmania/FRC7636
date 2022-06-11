@@ -49,19 +49,19 @@ export default {
   data: ()=> ({
       seasons:[
         {
-          photo: require("../../../assets/Elements/Everywhere-2020 Infinite Recharge.png"),
+          photo: require("../../../assets/Elements/Everywhere-2020InfiniteRecharge.png"),
           title: "FRC 2021: Infinite Recharge",
           text: "Powered by the great sponsorer, STAR WARS, our mission this year is the same as the mission last year, because of the epidemic, we get the similar seasons. We have more time to perfect our robot. If there is any opportunity to participate in the competition, we will do our best to fight for. No matter what, we will continue to work hard so that the team can take good hold of opportunities when we enconter opportunities.",
           path: "/2021InfiniteRecharge",
         },
         {
-          photo: require("../../../assets/Elements/Everywhere-2020 Infinite Recharge.png"),
+          photo: require("../../../assets/Elements/Everywhere-2020InfiniteRecharge.png"),
           title: "FRC 2020: Infinite Recharge",
           text: "Powered by the great sponsorer, STAR WARS, our mission this year is to protect the FIRST city from being attacked. We use limited resources to built our second robot. We aim to strike both Science Park Taiwan Regional and Silicon Valley Regional and go to our final goal, Detroit Championship. We are confidential that we will do a lot better this season.",
           path: "/2020InfiniteRecharge",
         },
         {
-          photo: require("@/assets/Elements/Everywhere-2019 Deep Space.png"),
+          photo: require("@/assets/Elements/Everywhere-2019DeepSpace.png"),
           title: "FRC 2019: Deep Space",
           text: "Sponsored by the aircraft mega company, BOEING, and with the view to explore the unknown space in the future, our theme this year, Deep Space, is looking forward to load and transport the resources to our space craft. Our robot and strategy had changed through the season, and our first robot, Charlie’s Comet had done a great job .",
           path: "/2019DeepSpace",
