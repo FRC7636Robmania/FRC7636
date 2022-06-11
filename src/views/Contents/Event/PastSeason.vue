@@ -3,7 +3,7 @@
     <div>
       <v-img
           aspect-ratio="2"
-          src="@/assets/Elements/FrontIMG/Events-Past seasons.jpg"
+          src="@/assets/Elements/FrontIMG/Events-PastSeasons.jpg"
           class="d-flex align-end"
       >
       <h1 class="ml-3 mb-2" style="font-style: italic; font-size: 7vmin;">

@@ -2,7 +2,7 @@
   <div>
     <v-img
       aspect-ratio="2"
-      src="@/assets/Elements/FrontIMG/About 7636.jpg"
+      src="@/assets/Elements/FrontIMG/About7636.jpg"
       class="align-center"
     >
       <div

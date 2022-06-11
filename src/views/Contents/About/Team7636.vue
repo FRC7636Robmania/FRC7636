@@ -29,7 +29,7 @@
 
         <v-img
         aspect-ratio="2.5"
-        src="@/assets/Elements/About/Team7636/About 7636 pic1.jpg"
+        src="@/assets/Elements/About/Team7636/About7636.jpg"
         class="align-center"
         >
         </v-img>
